@@ -1,4 +1,7 @@
-## Hi there 👋
+# Reinforcement learning AI for Crossy Road
+
+This organization contains all the code of our Polytech 4th year group projet for the AI class.
+You may find a clone of Crossy Road, build from scratch with C++ and OpenGL. And you may also find our RL AI code, built with python and pytorch.
 
 <!--
 
